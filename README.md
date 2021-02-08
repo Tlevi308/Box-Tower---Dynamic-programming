@@ -1,4 +1,4 @@
-# Box-Tower---Dynamic-programming
+# Box-Tower-Dynamic-programming
 
 Algorithms 1 - Running Exercise 2
 
